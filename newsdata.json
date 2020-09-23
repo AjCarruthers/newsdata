@@ -1,9 +1,16 @@
 [
     {
         "Title":"Default",
-	"PublicDate":"2020-09-23T13:25:52.4465573+01:00",
-	"SummaryText":"None",
-	"MainText":"None",
-	"Auther":"Not Assigned"
-    }
+		"PublicDate":"2020-09-23T13:25:52.4465573+01:00",
+		"SummaryText":"None",
+		"MainText":"None",
+		"Auther":"Not Assigned"
+    },
+	{
+		"Title":"Website is Live",
+		"PublicDate":"2020-06-01T13:00:00.0000000+01:00",
+		"SummaryText":"After about a month of development and design work, the first stages of the website are now completed. With the basics of the front end completed and some designs on the backed nearing completion we can now start working on making the site dynamic and more functional.  ",
+		"MainText":"None",
+		"Auther":"Ashley Carruthers"
+	}
 ]
